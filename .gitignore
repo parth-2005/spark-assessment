@@ -1,0 +1,6 @@
+.env
+PROJECT_PLAN.md
+queries.db
+test.py
+venv
+__pycache__
